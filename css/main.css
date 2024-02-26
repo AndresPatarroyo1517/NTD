@@ -1,0 +1,13 @@
+p .frutas{
+    color: red;
+}
+span.frutas:hover{
+    background-color: black;
+}
+p.frutas{
+    color:blue
+}
+p::first-line{
+    color:yellowgreen;
+    font-variant: small-caps;
+}
